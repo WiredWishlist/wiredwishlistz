@@ -1,1 +1,0 @@
-WiredWishlist React project for deployment on Vercel.
