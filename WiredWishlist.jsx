@@ -1,1 +1,0 @@
-// WiredWishlist component will be inserted here
